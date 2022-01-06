@@ -8,6 +8,7 @@
 #### 👋 Techs that I've used at least once
 
 <p align="center">
+<img src="https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=React&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white"/>&nbsp;
 <br>
