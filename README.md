@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=SLICE&color=auto&height=200&section=header&text=DohyunJeon&fontSize=90&fontcolor=white)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=DohyunJeon&fontSize=90&fontcolor=white)
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeondoh&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
@@ -31,4 +31,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeondoh&layout=compact&theme=nightowl&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=footer)
