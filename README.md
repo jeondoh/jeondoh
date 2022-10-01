@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=DohyunJeon&fontSize=90&fontcolor=white)
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeondoh&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
+  <img src="https://gh-hits.nomadcoders.workers.dev/view?username=jeondoh&cache"/>
+  <br/>
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeondoh&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
 </p>
 
 ## 📚 Tech Stack 📚
